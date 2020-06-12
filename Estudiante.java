@@ -34,7 +34,7 @@ public class Estudiante extends Persona{
 	}
 
 	/**
-	 * @return the curso
+	 * @return el curso
 	 */
 	protected Curso getCurso() {
 		return curso;
