@@ -1,6 +1,6 @@
 /**
  * Tenemos la clase persona de la cual hay una super clase.
- * @author Andrea SolÌs
+ * @author Andrea Sol√≠s
  *
  */
 public class Persona {
@@ -14,17 +14,17 @@ public class Persona {
 	}
 
 	/**
-	 * El mÈtodo getNombre est· protegido.
-	 * @author Andrea SolÌs
-	 * @return el nombre
+	 * El m√©todo getNombre est√° protegido.
+	 * @author Andrea Sol√≠s
+	 * @return the nombre
 	 */
 	protected String getNombre() {
 		return nombre;
 	}
 
 	/**
-	 * El mÈtodo setNombre est· protegido.
-	 * @author Andrea SolÌs
+	 * El m√©todo setNombre est√° protegido.
+	 * @author Andrea Sol√≠s
 	 * @param nombre the nombre to set
 	 */
 	protected void setNombre(String nombre) {
@@ -32,8 +32,8 @@ public class Persona {
 	}
 
 	/**
-	 * El mÈtodo getApellidos est· protegido.
-	 * @author Andrea SolÌs
+	 * El m√©todo getApellidos est√° protegido.
+	 * @author Andrea Sol√≠s
 	 * @return the apellidos
 	 */
 	protected String getApellidos() {
@@ -41,8 +41,8 @@ public class Persona {
 	}
 
 	/**
-	 * El mÈtodo setApellidos est· protegido.
-	 * @author Andrea SolÌs
+	 * El m√©todo setApellidos est√° protegido.
+	 * @author Andrea Sol√≠s
 	 * @param apellidos the apellidos to set
 	 */
 	protected void setApellidos(String apellidos) {
@@ -50,8 +50,8 @@ public class Persona {
 	}
 
 	/**
-	 * El mÈtodo getNif est· protegido.
-	 * @author Andrea SolÌs
+	 * El m√©todo getNif est√° protegido.
+	 * @author Andrea Sol√≠s
 	 * @return the nif
 	 */
 	protected String getNif() {
@@ -59,8 +59,8 @@ public class Persona {
 	}
 
 	/**
-	 * El mÈtodo setNif est· protegido.
-	 * @author Andrea SolÌs
+	 * El m√©todo setNif est√° protegido.
+	 * @author Andrea Sol√≠s
 	 * @param nif the nif to set
 	 */
 	protected void setNif(String nif) {
