@@ -10,7 +10,7 @@ public class Persona {
 	}
 
 	/**
-	 * @return the nombre
+	 * @return el nombre
 	 */
 	protected String getNombre() {
 		return nombre;
