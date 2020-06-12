@@ -8,12 +8,15 @@ sea un campo de la clase Gato llamado "maulla"*/
 
 public class Gato {
 
+		public String maulla;
+
 		protected Gato() {
 				
 	}
 
 	void maullar() {
-		System.out.println("Miau");
+		maulla = "Miau";
+		System.out.println(maulla);
 	}
 
 }
